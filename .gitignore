@@ -1,0 +1,18 @@
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# Data files
+*.csv
+archive/
+reviews_Cell_Phones_and_Accessories_5*
+
+# Exported HTML and its assets
+1.htm
+1_files/
+
+#macOS
+.DS_Store
+
+
